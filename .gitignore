@@ -1,0 +1,36 @@
+# Credenciales y Secretos - ¡NUNCA SUBIR A GIT!
+
+# Ignorar el archivo específico de la clave GCP 
+# (¡Asegúrate de que este es el nombre exacto del archivo que descargaste!)
+astute-nuance-443716-d8-7797266f1dc3.json
+
+# Ignorar otros tipos comunes de claves/secretos
+*.pem
+*.key
+secrets/
+keys/
+.env
+*.env
+
+# Carpetas de Dependencias/Caché
+node_modules/
+.serverless/
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+*.egg-info/
+.ipynb_checkpoints
+
+# Archivos OS/Editor
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+.vscode/
+.idea/
+
+# Otros (Añadir según necesidad)
+# /data/pdfs_a_procesar/
+# /data/pdfs_procesados/

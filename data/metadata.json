@@ -1,0 +1,78 @@
+[
+  {
+    "id": "bafybeihwhuei5jhwu...", // <-- CID IPFS del PDF
+    "original_filename": "20210411_phdthesis_EM_00.pdf",
+    "document_type": "phd_thesis",
+    "title": "Identificación de biomarcadores del Síndrome de Fatiga Crónica/Encefalomielitis Miálgica en sangre periférica",
+    "publication_date": "2021-01-05",
+    "date_added": "2025-04-14T01:25:00Z", // Fecha actualizada
+    "language": "es",
+    "is_open_access": true,
+    "clinical_conditions": [
+      {
+        "ontology": "ICD-11",
+        "code": "8E49",
+        "term": "Myalgic Encephalomyelitis/Chronic Fatigue Syndrome",
+        "short_code": "ME/CFS" // <-- Campo añadido
+      }
+    ],
+    "authors": [
+      { "name": "Eloy Almenar Pérez", "affiliation": null, "orcid": null }
+    ],
+    "abstract_summary": "Estudio de biomarcadores (microARNs, vesículas extracelulares) en sangre periférica de pacientes severos de SFC/EM del biobanco UK.", // Resumen corto
+    "document_text_extract": "INTRODUCCIÓN: El Síndrome de Fatiga Crónica / Encefalomielitis Miálgica (SFC/EM) es una enfermedad compleja y debilitante caracterizada por fatiga persistente e inexplicable... [Texto completo del abstract o extracto extenso del documento aquí]... CONCLUSIONES: Estos hallazgos sugieren que los perfiles de microARNs y las características de las VEs podrían servir como biomarcadores potenciales para el diagnóstico y seguimiento del SFC/EM.", // <-- Campo añadido
+    "keywords": [
+      "Síndrome de Fatiga Crónica", "Encefalomielitis Miálgica", "SFC/EM", "ME/CFS", "biomarcadores", "microARN", "vesículas extracelulares", "sangre periférica"
+    ],
+    "source_details": {
+      "thesis_info": {
+        "directors": [ { "name": "Elisa Oltra García", "affiliation": null, "orcid": null } ],
+        "university": { "name": "Universidad Católica de Valencia San Vicente Mártir", "ror_id": null }
+      },
+      "journal_info": null
+    },
+    "community_rating": { "average_score": null, "number_of_votes": 0 },
+    "metadata_version": "2.1-ipfs", // <-- Actualizado
+    "ipfs_gateways": [ // <-- Campo opcional añadido
+        "https://ipfs.io",
+        "https://cloudflare-ipfs.com",
+        "https://dweb.link"
+    ]
+  },
+  {
+    "id": "bafybeiczd7wjn7n...", // <-- CID IPFS del PDF
+    "original_filename": "20231101_paper_DYS_ME_LG_00.pdf",
+    "document_type": "paper",
+    "title": "Dysautonomia and small fiber neuropathy in post-COVID condition and Chronic Fatigue Syndrome",
+    "publication_date": "2023-10-28",
+    "date_added": "2025-04-14T01:25:00Z", // Fecha actualizada
+    "language": "en",
+    "is_open_access": true,
+    "clinical_conditions": [
+      { "ontology": "ICD-11", "code": "8D8", "term": "Disorders of autonomic nervous system", "short_code": "DYS" }, // <-- Campo añadido
+      { "ontology": "ICD-11", "code": "8E49", "term": "Myalgic Encephalomyelitis/Chronic Fatigue Syndrome", "short_code": "ME/CFS" }, // <-- Campo añadido
+      { "ontology": "ICD-11", "code": "RA02", "term": "Post COVID-19 condition", "short_code": "LONGCOVID" } // <-- Campo añadido
+    ],
+    "authors": [
+       { "name": "N. Azcue", "affiliation": null, "orcid": null }, /* ... */ { "name": "B. Tijero-Merino", "affiliation": null, "orcid": null }
+    ],
+    "abstract_summary": "Comparativa de síntomas autonómicos/neuropáticos (POTS, SFN) y cognitivos entre pacientes post-COVID, ME/CFS y controles sanos.", // Resumen corto
+    "document_text_extract": "Background: Myalgic Encephalomyelitis/Chronic Fatigue Syndrome (ME/CFS) and post-COVID condition are debilitating syndromes sharing clinical symptoms such as fatigue, cognitive impairment ('brain fog'), and autonomic and neuropathic symptoms... [Full abstract or extensive text extract here]... Conclusions: Autonomic symptoms and POTS are frequently found in both syndromes. Heat latency values point towards unmyelinated fibre damage, and palm Sudoscan results suggest a non-length-dependent SFN in these patients.", // <-- Campo añadido
+    "keywords": [
+      "Dysautonomia", "Small fiber neuropathy", "Post-COVID condition", "Long Covid", "Myalgic Encephalomyelitis", "Chronic Fatigue Syndrome", "ME/CFS", "Cognition", "POTS"
+    ],
+    "source_details": {
+      "thesis_info": null,
+      "journal_info": {
+        "journal_name": "Journal of Translational Medicine", "publisher": "BMC", "issn": null, "volume": "21", "issue": null, "pages": "814", "doi": "10.1186/s12967-023-04678-3", "impact_metrics": []
+      }
+    },
+    "community_rating": { "average_score": null, "number_of_votes": 0 },
+    "metadata_version": "2.1-ipfs", // <-- Actualizado
+     "ipfs_gateways": [ // <-- Campo opcional añadido
+        "https://ipfs.io",
+        "https://cloudflare-ipfs.com",
+        "https://dweb.link"
+    ]
+  }
+]
